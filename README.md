@@ -1,5 +1,3 @@
 # testco
 
-test
-test
-test
+test push
